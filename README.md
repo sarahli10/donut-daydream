@@ -8,5 +8,5 @@ The player must control Usagi using the arrow keys and eat as many donuts as the
 
 Screenshots:
 ![title screen](screenshots/1.png)
-![game](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/master/screenshots/2.png)
-![game over screen](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/master/screenshots/3.png)
+![game](screenshots/2.png)
+![game over screen](screenshots/3.png)
