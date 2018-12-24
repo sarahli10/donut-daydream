@@ -7,6 +7,6 @@ Overview:
 The player must control Usagi using the arrow keys and eat as many donuts as they can while trying to avoid the rainbow beam, which will decrease her health points in the dream and makes her wake up. The game will end when her health drops to 0.
 
 Screenshots:
-![title screen](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/master/screenshots/1.png)
-![game](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/master/screenshots/2.png)
-![game over screen](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/master/screenshots/3.png)
+![title screen](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/blob/master/screenshots/1.png)
+![game](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/blob/master/screenshots/2.png)
+![game over screen](https://raw.githubusercontent.com/animegirl4lyfe/donut-daydream/blob/master/screenshots/3.png)
